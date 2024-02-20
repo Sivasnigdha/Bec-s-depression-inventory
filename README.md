@@ -1,1 +1,2 @@
-# Bec-s-depression-inventory
+
+https://github.com/in2suitch/BDI.git
